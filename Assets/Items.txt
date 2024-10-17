@@ -1,0 +1,42 @@
+Pedal of the Prodigy - When 5 ‘perfect’ hits in a row are done, deal 5 damage to the enemy
+
+Universal Donor - Heal 1 hp for every step taken
+
+Band Hat - Gain 2 armor at the start of every battle
+
+Bag of Blood - If a battle is ended at full health, gain 15 gold
+
+Glass Cymbal - Enemy attacks deal 1 less damage
+
+Sheet Music Stand - Every 10 great hits, gain 2 armor
+
+Glass Slide - When hitting 3 great hits in a row, apply 2 poison to the enemy
+
+Instrument Case - If Equipment Meter is full, attacks deal 2 extra damage
+
+Heavy Rock - When Equipment is used, deal 2 dmg to enemy
+
+Fake Watch - Equipment charges up 10% faster
+
+Death's Pocketwatch - When the 'shift' key is held, deal 2x damage with notes but time moves 2x as fast
+
+Hermits Metronome - Deal 1 more damage with attacks for every 10 combo
+
+Four Eyes - Perfect Notes are slightly easier to hit
+
+Jumper Cables - Equipment Starts out charged at the start of combat
+
+Duck Tape - Combine 2 Equipment, Use them both in battle
+
+AAAA Battery - A second charge of equipment can be stored
+
+Sticky Rosin - While the enemy is slowed, attacks deal 50% more damage
+ 
+
+Equipment
+-----------------------------------------
+Star Sticker - Deal 1.5x damage for 5 seconds
+
+Crystallized Stopwatch - slow time by 50% for 7 seconds
+
+Za Warudo - Do a crazy dio thing and reverse time idk id be funny

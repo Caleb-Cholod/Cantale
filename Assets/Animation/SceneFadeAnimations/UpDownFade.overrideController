@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpDownFade
+  m_Controller: {fileID: 9100000, guid: 11023d45df2982542a7e19558222f70c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 06e04d155e70a984780ffdd132df5944, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7325065c2375b2d49807b34399618654, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 459e2844b425152459ef333c45685dd3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b06a0686758254e478142d8579be7ff2, type: 2}

@@ -1,0 +1,64 @@
+Take 2 ToDo:
+-------------------------------------
+()Localization
+()Songs need to replay
+()Code a recording song feature
+()Play custom music?
+()Player changes stance on note hit
+()can i play the game on guitar yet
+()Some sfx/visual fx for missing a note
+()Cursor effects or just a script for white outlines on mouseOver
+()Some sort of data/stats page to see items/player info
+()I want a mouseover textbox for item descriptions
+()Refactoring damage numbers to not be 1, probably have each note add up and have clearer terminology on attacks/defends
+()I need more feedback, particles? screen shake? pop/shrink animations?
+()Expand shop
+()Need to add Settings page
+()Need to fix arrow sp. effects not playing
+()More Items, random chest Items
+()Add Comments to code
+()Enemy data page, chance rolls on death
+()Add in more Items
+()Add in more music
+()Add in a gacha spinner for rewards
+()Add in fire which inflicts notes on attack phase, if notes are missed then dmg is dealt to player
+()Add in poison which does the same thing but deals 2x damage if notes in defend stage are missed
+()Add in perfect rewards, except there are diff rewards for gettings no misses, no okays+misses, no goods. like +10 gold for no misses but +3 hp for all perfects
+()Add in a way to deal with infinite songs/a way to cull notes offscreen
+()Add in try/except or error handling on ddol objects giving error
+()Add in a screen delay solution?
+()Risk of rain esc difficulty with tempo increasing for every step in map taken
+()Move stuff from playerprefs into prefs
+()Add in enemies/Bosses that increase the tempo/decrease the tempo by themselves >:)
+()Add in a space that gives a random effect
+()Way in the future add in a star page for all the enemies bronze silver gold if players get no misses all goods only perfs etc...give items or skins based on these?
+
+
+-------------------------------------------------------------------------------
+DONE
+-------------------------------------------------------------------------------
+(X)Add back in death animations
+(x)Add fireflies to battle
+(x)Need to add lightable cursor on map?
+(x)Need to add explosion on hitting enemy and on enemy hiting you
+(x)Need to add in map tile art for shop chest enemy
+(X)Make icons for map
+(X)Fix stupid map generation loading
+(x)Add in better conveyor, should be clear when is my turn and when is enemy turn
+(X)Make map tiles selectable and have outline
+(X)Add a sword and shield icons to conveyor, could change division line to have sh->sword, sw->shield
+(X)Fix music to bpm and scroll bars
+(x)Need to fix map tile 2 triggering twice
+(x)Add in equipment that charges up
+(X)Change 4 arrow buttons to look a bit nicer
+(x)Put back in the different sprites for arrows when pressed down
+(X)Add in death animations for enemies
+(X)Add in a combo number that influences some items later on
+(X)Add in slime enemy
+(X)Fade in and out + all the change scenes scripts are gross, pls fix
+(X)Fix chest scene
+(X)Add in a tutorial
+(X)Make actual player + capy sprites (ava :>)
+(X)Fix song timing
+(X)Player atk/effects
+(X)Add in boss
